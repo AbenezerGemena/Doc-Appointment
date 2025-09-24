@@ -1,0 +1,15 @@
+.flex{
+  display: flex;
+}
+.space-around{
+  justify-content: space-around;
+}
+.space-between{
+  justify-content: space-between;
+}
+.box{
+  background: $auth_box_background;
+  border-radius: 7px;
+  box-shadow: 0 0 10px 0px $auth_box_shadow_color;
+  padding: 20px 30px;
+}
